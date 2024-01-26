@@ -1,11 +1,11 @@
 === ICESI ===
-Contribuyentes: Andres Vasquez
-Tags: tema, responsive, personalizable
-Versión: 1.0
-Requiere WordPress: 5.0 o superior
-Probado hasta: 5.8
-Licencia: GPLv2 o posterior
-Licencia URI: http://www.gnu.org/licenses/gpl-2.0.html
+*Contribuyentes: Andres Vasquez
+*Tags: tema, responsive, personalizable
+*Versión: 1.0
+*Requiere WordPress: 5.0 o superior
+*Probado hasta: 5.8
+*Licencia: GPLv2 o posterior
+*Licencia URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Descripción ==
 
